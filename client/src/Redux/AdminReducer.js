@@ -2,8 +2,8 @@
 
 const intialState = {
       
-   adminEmail: "goradev66@gmail.com",
-   adminPassword: "Vishal",
+   adminEmail: "pkakde7972@gmail.com",
+   adminPassword: "1212",
 
    isAuthenticated: false,
 

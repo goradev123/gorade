@@ -8,8 +8,8 @@ const AdminLogin = () => {
 
    const navigate = useNavigate();
 
-   const realUsername = "goradev66@gmail.com";
-   const realPassword = "Vishal";
+   const realUsername = "pkakde7972@gmail.com";
+   const realPassword = "1212";
 
    const handleSubmit = (e) => {
          e.preventDefault();
@@ -78,7 +78,7 @@ const AdminLogin = () => {
             {/* Submit Button */}
             <div
                className="w-full px-4 py-2 text-white bg-green-600 rounded-md hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500"
-               onClick={() => {setUsername("goradev66@gmail.com"); setPassword("Vishal");}}
+               onClick={() => {setUsername("pkakde7972@gmail.com"); setPassword("1212");}}
             >
                Use Test Credetials
             </div>
